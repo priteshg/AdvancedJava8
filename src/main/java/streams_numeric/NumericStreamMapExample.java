@@ -1,4 +1,4 @@
-package advanced_java_8.streams_numeric;
+package streams_numeric;
 
 import java.util.List;
 import java.util.stream.IntStream;

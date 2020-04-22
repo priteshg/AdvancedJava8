@@ -1,4 +1,4 @@
-package advanced_java_8.example;
+package example;
 
 public class Price {
 

@@ -1,4 +1,4 @@
-package advanced_java_8.method_reference;
+package method_reference;
 
 import java.util.function.Function;
 

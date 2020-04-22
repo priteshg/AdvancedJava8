@@ -1,9 +1,9 @@
-package advanced_java_8.comparitor;
+package comparitor;
 
-import net.minidev.json.JSONUtil;
-import org.w3c.dom.ls.LSOutput;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 public class Product {
     private Integer productID;

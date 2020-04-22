@@ -1,4 +1,4 @@
-package advanced_java_8.data;
+package data;
 
 import java.util.Arrays;
 import java.util.List;

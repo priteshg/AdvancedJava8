@@ -1,4 +1,4 @@
-package advanced_java_8.lambdas;
+package lambdas;
 
 import java.util.function.Consumer;
 

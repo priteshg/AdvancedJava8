@@ -1,6 +1,6 @@
-package advanced_java_8.optional;
+package optional;
 
-import advanced_java_8.data.Student;
+import data.Student;
 
 import java.util.Optional;
 

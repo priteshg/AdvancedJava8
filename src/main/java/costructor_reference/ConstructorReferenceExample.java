@@ -1,6 +1,6 @@
-package advanced_java_8.costructor_reference;
+package costructor_reference;
 
-import advanced_java_8.data.Student;
+import data.Student;
 
 import java.util.function.Function;
 import java.util.function.Supplier;

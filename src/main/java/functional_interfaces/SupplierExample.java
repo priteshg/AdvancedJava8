@@ -1,7 +1,7 @@
-package advanced_java_8.functional_interfaces;
+package functional_interfaces;
 
-import advanced_java_8.data.Student;
-import advanced_java_8.data.StudentDataBase;
+import data.Student;
+import data.StudentDataBase;
 
 import java.util.Arrays;
 import java.util.List;

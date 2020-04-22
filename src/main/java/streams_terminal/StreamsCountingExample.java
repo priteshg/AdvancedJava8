@@ -1,6 +1,6 @@
-package advanced_java_8.streams_terminal;
+package streams_terminal;
 
-import advanced_java_8.data.StudentDataBase;
+import data.StudentDataBase;
 
 import static java.lang.String.format;
 import static java.util.stream.Collectors.counting;

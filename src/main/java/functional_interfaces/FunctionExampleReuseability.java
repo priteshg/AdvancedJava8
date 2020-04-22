@@ -1,4 +1,4 @@
-package advanced_java_8.functional_interfaces;
+package functional_interfaces;
 
 public class FunctionExampleReuseability {
 

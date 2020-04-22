@@ -1,4 +1,4 @@
-package advanced_java_8.optional;
+package optional;
 
 import java.util.Optional;
 

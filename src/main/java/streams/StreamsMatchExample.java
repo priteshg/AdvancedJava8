@@ -1,6 +1,6 @@
-package advanced_java_8.streams;
+package streams;
 
-import advanced_java_8.data.StudentDataBase;
+import data.StudentDataBase;
 
 public class StreamsMatchExample {
 

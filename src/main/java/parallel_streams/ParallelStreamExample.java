@@ -1,4 +1,4 @@
-package advanced_java_8.parallel_streams;
+package parallel_streams;
 
 import java.util.function.Supplier;
 import java.util.stream.IntStream;
