@@ -18,7 +18,8 @@ public class StreamsComparatorExample {
 
     public static List<Student> sortedStudentsByGPA() {
         return StudentDataBase.getAllStudents().stream()
-                .sorted(Comparator.comparing(Student::getGpa))
+                .sorted(
+                        Comparator.comparing(Student::getGpa))
                 .collect(toList());
     }
 

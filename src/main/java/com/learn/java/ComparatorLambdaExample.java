@@ -1,5 +1,7 @@
 package com.learn.java;
 
+import com.learn.java.data.Student;
+
 import java.util.Comparator;
 
 public class ComparatorLambdaExample {
@@ -17,9 +19,11 @@ public class ComparatorLambdaExample {
 
         System.out.println("comparator:" + comparator.compare(1, 2));
 
+
         // new way
 
         Comparator<Integer> comparableTwo = (Integer a, Integer b) -> a.compareTo(b);
+        Comparator<Student> comparatorA = (a,b ) -> a.getName().compareTo(b.getName());
     }
 
 }
